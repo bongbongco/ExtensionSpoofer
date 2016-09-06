@@ -1,0 +1,9 @@
+C:\Users\lsy\Documents\Visual Studio 2015\Projects\ExtensionSpoofer\ExtensionSpoofer\bin\Debug\ExtensionSpoofer.exe.config
+C:\Users\lsy\Documents\Visual Studio 2015\Projects\ExtensionSpoofer\ExtensionSpoofer\obj\Debug\ExtensionSpoofer.csprojResolveAssemblyReference.cache
+C:\Users\lsy\Documents\Visual Studio 2015\Projects\ExtensionSpoofer\ExtensionSpoofer\obj\Debug\ExtensionSpoofer.Form1.resources
+C:\Users\lsy\Documents\Visual Studio 2015\Projects\ExtensionSpoofer\ExtensionSpoofer\obj\Debug\ExtensionSpoofer.Properties.Resources.resources
+C:\Users\lsy\Documents\Visual Studio 2015\Projects\ExtensionSpoofer\ExtensionSpoofer\obj\Debug\ExtensionSpoofer.csproj.GenerateResource.Cache
+C:\Users\lsy\Documents\Visual Studio 2015\Projects\ExtensionSpoofer\ExtensionSpoofer\bin\Debug\ExtensionSpoofer.exe
+C:\Users\lsy\Documents\Visual Studio 2015\Projects\ExtensionSpoofer\ExtensionSpoofer\bin\Debug\ExtensionSpoofer.pdb
+C:\Users\lsy\Documents\Visual Studio 2015\Projects\ExtensionSpoofer\ExtensionSpoofer\obj\Debug\ExtensionSpoofer.exe
+C:\Users\lsy\Documents\Visual Studio 2015\Projects\ExtensionSpoofer\ExtensionSpoofer\obj\Debug\ExtensionSpoofer.pdb
